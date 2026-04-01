@@ -1,2 +1,1 @@
-# mi-primer-paso
-"Aquí estoy aprendiendo a usar GitHub con mi amigo Gemini".
+"¡Hola! Soy Pedro y hoy estoy dando mis primeros pasos en GitHub. ¡Esto es más fácil de lo que pensaba!"
